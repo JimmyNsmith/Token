@@ -1,0 +1,12 @@
+00109,Thomas,Peterson,12,12.51
+02036,Regina,Zoeg,9,9.00
+19655,Phil,Otez,49,11.95
+51121,Gina,Fernandez,3,20.03
+56099,Teesha, Smith,6,-9.18
+9090,Frank,Moore,8,3.00
+56321,Ernest,Wallace,10,5.98
+58123,Helen,Harrison,4,21.09
+59909,,Stucker,2,17.19
+61111,,,3,0.00
+abcde,Ann,Herrington,7,0.00
+70019,Bob,Dillon,6,3.50
